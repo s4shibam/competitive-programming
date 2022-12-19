@@ -177,6 +177,6 @@ int main()
     }
 
     auto endingTime = chrono::high_resolution_clock::now();
-    cerr << "Time taken: " << chrono::duration_cast<chrono::milliseconds>(endingTime - startingTime).count() << "ms" << std::endl;
+    cerr << "Time taken: " << chrono::duration_cast<chrono::milliseconds>(endingTime - startingTime).count() << "ms" << nl;
     return 0;
 }
