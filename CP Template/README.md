@@ -1,12 +1,12 @@
-## Competitive Programming Template / Code Snippet
+## Competitive Programming Template / Code Snippet / Macro
 
 - What is Code Snippets?\
   Code snippets are templates that make it easier to enter repeating code patterns, such as loops or conditional-statements.
 
 Here, 2 type of snippet file has been uploaded.
 
-- [CP-Template.cpp](https://github.com/s4shibam/Competitive-Programming/blob/main/CP-Template.cpp) --> Can be directly copy-pasted to a \*.cpp file
-- [CP-Template.json](https://github.com/s4shibam/Competitive-Programming/blob/main/CP-Template.json) --> Can be used as a code snippet
+- [CP-Template.cpp](https://github.com/s4shibam/Competitive-Programming/blob/master/Template/CP-Template.cpp) --> Can be directly copy-pasted to a \*.cpp file
+- [CP-Template.json](https://github.com/s4shibam/Competitive-Programming/blob/master/Template/CP-Template.json) --> Can be used as a code snippet
 
 ### How to create User Snippet/Startup Template in VS Code?
 
