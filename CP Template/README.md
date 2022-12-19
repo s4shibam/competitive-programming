@@ -5,8 +5,8 @@
 
 Here, 2 type of snippet file has been uploaded.
 
-- [CP-Template.cpp](https://github.com/s4shibam/Competitive-Programming/blob/master/Template/CP-Template.cpp) --> Can be directly copy-pasted to a \*.cpp file
-- [CP-Template.json](https://github.com/s4shibam/Competitive-Programming/blob/master/Template/CP-Template.json) --> Can be used as a code snippet
+- [CP-Template.cpp](https://github.com/s4shibam/Competitive-Programming/blob/master/CP%20Template/CP-Template.cpp) --> Can be directly copy-pasted to a \*.cpp file
+- [CP-Template.json](https://github.com/s4shibam/Competitive-Programming/blob/master/CP%20Template/CP-Template.json) --> Can be used as a code snippet
 
 ### How to create User Snippet/Startup Template in VS Code?
 
