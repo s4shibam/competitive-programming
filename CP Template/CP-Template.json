@@ -3,7 +3,7 @@
     "prefix": "!cp",
     "body": [
       "// Author: Shibam Saha",
-      "// https://github.com/s4shibam",
+      "// s4shibam (Social)",
       "",
       "// -------------------------------------------------------------------------------------",
       "",
@@ -197,7 +197,7 @@
       "// *Solution",
       "void solution()",
       "{",
-      "   ",
+      "   $0",
       "}",
       "",
       "// *Driver Code",
